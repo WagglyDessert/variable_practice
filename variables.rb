@@ -13,3 +13,7 @@ payment = 1.00
 pie_consumed = 0.25
 pushups_per_second = 0.83
 
+# Boolean variables
+awake = true
+surfed today = true
+washed car = false
